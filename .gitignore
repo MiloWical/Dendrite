@@ -351,3 +351,6 @@ MigrationBackup/
 
 # Visual Studio Code workspace and run profile files
 .vscode/
+
+# Mac files
+**/.DS_Store
